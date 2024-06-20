@@ -41,7 +41,7 @@ pip install -e submodules/depth-diff-gaussian-rasterization
 pip install -e submodules/simple-knn
 ```
 
-**Tips**: 2 GB GPU memory is required for training and inference. 
+**Tips**: 24 GB GPU memory is required for training and inference. 
 
 ## 📚Data Preparation
 Same to the 📚Data Preparation process of [EndoGaussian](https://github.com/yifliu3/EndoGaussian):
