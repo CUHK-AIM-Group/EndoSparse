@@ -15,6 +15,7 @@
 [Yixuan Yuan](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-yixuan-yuan)<sup>1✉</sup>
 
 <sup>1</sup> The Chinese University of Hong Kong, <sup>2</sup> Massachusetts Institute of Technology
+
 <sup>✉</sup> Corresponding Author. 
 
 -------------------------------------------
