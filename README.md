@@ -31,7 +31,7 @@
 
 ```bash
 git clone https://github.com/CUHK-AIM-Group/EndoSparse.git
-cd LGS
+cd EndoSparse
 conda create -n endosparse python=3.7
 conda activate endosparse
 
