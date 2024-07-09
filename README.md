@@ -74,7 +74,6 @@ Greatly appreciate the tremendous effort for the following projects!
 - [3D GS](https://github.com/graphdeco-inria/gaussian-splatting)
 - [4D GS](https://github.com/hustvl/4DGaussians)
 - [EndoNeRF](https://github.com/med-air/EndoNeRF)
-- 
 
 
 ## 📜Citation
