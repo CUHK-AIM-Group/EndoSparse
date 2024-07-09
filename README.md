@@ -67,32 +67,6 @@ The file structure is as follows.
 ```
 
 
-
-## ⏳Training EndoSparse
-Run the following code to train LGS in a distillation scheme.
-```bash
-code for train
-```
-
-### 📏Metric Evaluation
-```
-code for evaluation
-```
-
-
-### 🎪Experiment Results
-#### Quantitative Results
-![introduction](./assets/exp_1.jpg)
-#### Qualitative Results
-![introduction](./assets/exp_2.png)
-
-
-## 🛒TODO List
-- [ ] Release code for EndoSparse
-- [ ] Clean up the code for EndoSparse
-- [ ] Updae the code for ablation experiments
-
-
 ## 🎈Acknowledgements
 Greatly appreciate the tremendous effort for the following projects!
 - [FSGS](https://github.com/VITA-Group/FSGS)
@@ -100,6 +74,7 @@ Greatly appreciate the tremendous effort for the following projects!
 - [3D GS](https://github.com/graphdeco-inria/gaussian-splatting)
 - [4D GS](https://github.com/hustvl/4DGaussians)
 - [EndoNeRF](https://github.com/med-air/EndoNeRF)
+- 
 
 
 ## 📜Citation
